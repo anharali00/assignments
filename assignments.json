@@ -1,0 +1,24 @@
+{
+    "assignments": [
+        {
+            "unitName": "Unit 12 Web Development",
+            "deadline": "2026-12-15T23:59:00"
+        },
+        {
+            "unitName": "Database Design Assignment",
+            "deadline": "2025-11-30T23:59:00"
+        },
+        {
+            "unitName": "Algorithms and Data Structures",
+            "deadline": "2025-12-18T23:59:00"
+        },
+        {
+            "unitName": "Unit 3 Professional Practice Group Work",
+            "deadline": "2024-11-20T23:59:00"
+        },
+        {
+            "unitName": "Algorithms and Data Structures",
+            "deadline": "2024-11-20T23:59:00"
+        }
+    ]
+}
